@@ -1,0 +1,18 @@
+
+.title {
+    color:rgb(45, 45, 216);
+    padding: 300px;
+}
+.text {
+    color: rgb(51, 8, 30);
+    padding: 300px;
+    font-weight: 300px;
+}
+.photo {
+    height: 400px;
+    width: 300px;
+    margin-left: 300px;
+}
+.fon{
+    background-color: rgb(255, 192, 169);
+}
